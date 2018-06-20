@@ -1,0 +1,10 @@
+{
+    "instances": [
+        "_PAD_POS", 
+        "O"
+    ], 
+    "instance2index": {
+        "_PAD_POS": 0, 
+        "O": 1
+    }
+}

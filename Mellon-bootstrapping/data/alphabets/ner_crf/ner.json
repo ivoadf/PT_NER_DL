@@ -1,0 +1,14 @@
+{
+    "instances": [
+        "_PAD_NER", 
+        "O", 
+        "B-PER", 
+        "I-PER"
+    ], 
+    "instance2index": {
+        "_PAD_NER": 0, 
+        "B-PER": 2, 
+        "O": 1, 
+        "I-PER": 3
+    }
+}

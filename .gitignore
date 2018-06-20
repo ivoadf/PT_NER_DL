@@ -1,0 +1,3 @@
+# filenames that start with i_ are not stored in git
+i_*
+__pycache__
